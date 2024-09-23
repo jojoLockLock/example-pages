@@ -1,0 +1,13 @@
+<svg width="100" height="30" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- 外部边框 -->
+  <rect x="0" y="0" width="200" height="60" rx="10" ry="10" fill="#7c7984" />
+
+  <!-- 左侧分隔线 -->
+  <line x1="60" y1="0" x2="60" y2="60" stroke="#2a2a2a" stroke-width="2" />
+
+  <!-- 圆形图标 -->
+  <circle cx="30" cy="30" r="15" fill="#ffffff" />
+
+  <!-- 文字 -->
+  <text x="80" y="38" font-family="Arial" font-size="24" fill="#ffffff">Cancel</text>
+</svg>
